@@ -75,7 +75,7 @@ The outputs will appear in the output folder which will be created (if it doesn'
 ### Results:
 For a view of the results when running the model over 50 epochs with adam optimizer and max pooling see the output folder in this repo. <br>
 
-__Training and testing results using alternating SGD, adam, max and average pooling across 50 epochs:__
+__Training and testing results using alternating SGD, adam, max and average pooling across 50 epochs:__ <br>
 Train and test acc: 0.26, 0.18 for SGD with MaxPooling (50 epochs) <br>
 Train and test acc: 0.94, 0.24 for adam with MaxPooling (50 epochs) <br>
 Train and test acc: 0.67, 0.20 for adam with AvgPooling (50 epochs) <br>
