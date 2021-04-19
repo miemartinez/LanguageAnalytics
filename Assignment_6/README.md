@@ -58,7 +58,7 @@ __Example:__ <br>
 
 
 
-
+## Virtual Environment
 To ensure dependencies are in accordance with the ones used for the script, you can create the virtual environment "GoT_venv" by running the bash script create_GoT_venv.sh
 ```
     $ bash ./create_GoT_venv.sh
